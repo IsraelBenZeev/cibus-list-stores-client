@@ -1,4 +1,4 @@
-import type { StoreFilters, SortBy, SortDir } from '../../stores/types/store.types';
+import type { StoreFilters, SortBy } from '../../stores/types/store.types';
 
 interface StoreFiltersProps {
   filters: StoreFilters;
